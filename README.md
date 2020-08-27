@@ -50,6 +50,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [test](https://dev.to/tegarsubkhan236/test-3job)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://github.com/tegarsubkhan236?tab=repositories)
