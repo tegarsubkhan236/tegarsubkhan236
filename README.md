@@ -6,7 +6,6 @@
 ## I'm a Developer, and College Student!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Laravel and Machine Learning projects
 - ⚡ Fun fact: I love to adventures
 
