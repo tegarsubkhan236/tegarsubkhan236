@@ -6,12 +6,12 @@
 ## I'm a Developer, and College Student!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Laravel and Machine Learning projects
+<!-- - 🥅 2020 Goals: Contribute more to Laravel and Machine Learning projects -->
 - ⚡ Fun fact: I love to adventures
 
 ## My Stats
 [![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsubkhan236&show_icons=true&theme=dracula)](https://github.com/tegarsubkhan236)
-[![My Statistic](https://github-readme-stats.vercel.app/api?username=tegarsubkhan236&count_private=true&show_icons=true&theme=dracula)](https://github.com/tegarsubkhan236)
+<!-- [![My Statistic](https://github-readme-stats.vercel.app/api?username=tegarsubkhan236&count_private=true&show_icons=true&theme=dracula)](https://github.com/tegarsubkhan236) -->
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
