@@ -4,6 +4,10 @@
 - 💬 Ask me about **PHP, Javascript, Golang, Clean code, and SOLID!**
 - 📫 How to reach me **tegarsubkhan236@gmail.com**
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tegarsubkhan236&label=Profile%20views&color=0e75b6&style=flat" alt="tegarsubkhan236" /> 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:tegarsubkhan236@gmail.com" target="blank">
@@ -22,7 +26,6 @@
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40" height="40" />
   </a> 
