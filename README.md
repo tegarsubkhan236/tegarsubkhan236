@@ -1,5 +1,4 @@
-## Welcome Dears 👋
-### Software Engineer (Web)
+# Welcome Dears 👋
 ![Profile views](https://komarev.com/ghpvc/?username=tegarsubkhan236&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
