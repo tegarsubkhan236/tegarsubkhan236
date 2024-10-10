@@ -8,4 +8,4 @@
 - 🧑‍💼 Worked at PT. Sarana Media Selular as a Full Stack Developer
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsubkhan236&layout=compact&hide=html,css,scss,Dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsubkhan236&layout=compact&hide=html,css,scss,Dockerfile,Makefile)
