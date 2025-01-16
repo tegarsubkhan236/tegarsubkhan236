@@ -1,5 +1,3 @@
-<a href="https://s.id/standwithpalestine"><img alt="We stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-project.svg" width="100%" /></a>
-
 # Welcome Dears 👋
 ![Profile views](https://komarev.com/ghpvc/?username=tegarsubkhan236&label=Profile%20views&color=0e75b6&style=flat)
 
