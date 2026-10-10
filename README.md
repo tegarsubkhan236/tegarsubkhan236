@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 📫 How to reach me: [Gmail](mailto:tegarsubkhan236@gmail.com), [LinkedIn](https://www.linkedin.com/in/tegar-subkhan-fauzi/)
-- 🧑‍💼 Worked at PT. Sarana Media Selular as a Full Stack Developer
+- 🧑‍💼 Worked at PT Indosat Tbk as a Backend Engineer
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsubkhan236&layout=compact&hide=html,css,scss,Dockerfile,Makefile)
