@@ -26,7 +26,7 @@ I build reliable backend services and APIs with a strong focus on authentication
 
 `PostgreSQL` · `MySQL` · `Redis` · `SQLite` · `sqlc` · `Docker` · `GitHub Actions`
 
-## Reference Project
+## Selected Project
 
 ### [🐹🔐 Locky](https://github.com/tegarsubkhan236/locky)
 
@@ -39,20 +39,6 @@ Locky demonstrates:
 - Session revocation and explicit service ownership boundaries
 - gRPC APIs with PostgreSQL persistence through sqlc
 - Health checks, structured logging, Docker, CI, and security documentation
-
-## Selected Projects
-
-### [Go RBAC](https://github.com/tegarsubkhan236/go-rbac)
-
-A Go and Fiber starter project for role-based access control with JWT authentication, MySQL/SQLite persistence, Redis integration, Docker support, and repository/use-case tests.
-
-### [Unidirectional Streaming Service](https://github.com/tegarsubkhan236/uds)
-
-A full-stack streaming project with a Go backend and React client, including repository tests and Docker support.
-
-### [Inventory API](https://github.com/tegarsubkhan236/inventory-api) · [Inventory Web](https://github.com/tegarsubkhan236/inventory-web)
-
-An inventory management application consisting of a Go/Fiber REST API and a React/TypeScript dashboard.
 
 ## GitHub Overview
 
