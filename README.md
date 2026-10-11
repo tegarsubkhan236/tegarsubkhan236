@@ -5,7 +5,7 @@
 I build reliable backend services and APIs with a strong focus on authentication, service boundaries, maintainability, and production readiness. I have professional experience at **PT Indosat Tbk** and primarily work with **Go**.
 
 <p align="center">
-  <img src="./assets/coding-gopher.svg" width="700" alt="Cute coding gopher animation" />
+  <img src="./assets/coding-gopher.svg?v=2" width="700" alt="Cute coding gopher animation" />
 </p>
 
 ## Engineering Focus
