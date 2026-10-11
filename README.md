@@ -4,6 +4,10 @@
 
 I build reliable backend services and APIs with a strong focus on authentication, service boundaries, maintainability, and production readiness. I have professional experience at **PT Indosat Tbk** and primarily work with **Go**.
 
+<p align="center">
+  <img src="./assets/coding-gopher.svg" width="700" alt="Cute coding gopher animation" />
+</p>
+
 ## Engineering Focus
 
 - Designing REST and gRPC services for microservice architectures
@@ -11,20 +15,6 @@ I build reliable backend services and APIs with a strong focus on authentication
 - Clean architecture, testing, observability, and delivery automation
 - Reliable persistence with PostgreSQL, MySQL, Redis, SQLite, and sqlc
 - Containerized development and deployment with Docker and GitHub Actions
-
-## Tech Stack
-
-**Languages**
-
-`Go` · `Java` · `TypeScript` · `JavaScript` · `PHP` · `SQL`
-
-**Backend**
-
-`Fiber` · `gRPC` · `REST API` · `Spring Boot` · `Laravel` · `JWT`
-
-**Data & Infrastructure**
-
-`PostgreSQL` · `MySQL` · `Redis` · `SQLite` · `sqlc` · `Docker` · `GitHub Actions`
 
 ## Selected Project
 
