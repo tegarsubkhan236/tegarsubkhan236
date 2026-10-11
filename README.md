@@ -1,14 +1,16 @@
 # Hi, I'm Tegar Subkhan Fauzi 👋
 
-Backend Engineer focused on building reliable APIs, backend services, and practical full-stack products. I have professional experience at **PT Indosat Tbk** and primarily work with **Go**, while also building with Java, TypeScript, and PHP.
+**Backend Engineer · Go · Microservices · Distributed Systems**
 
-## About Me
+I build reliable backend services and APIs with a strong focus on authentication, service boundaries, maintainability, and production readiness. I have professional experience at **PT Indosat Tbk** and primarily work with **Go**.
 
-- 💻 Backend Engineer with a strong interest in scalable and maintainable systems
-- 🔐 Experienced with REST APIs, authentication, JWT, and role-based access control
-- 🧪 Interested in testing, clean architecture, observability, and delivery automation
-- 🌱 Currently deepening my knowledge of distributed systems and production-grade Go services
-- 🤝 Open to backend engineering opportunities and technical collaboration
+## Engineering Focus
+
+- Designing REST and gRPC services for microservice architectures
+- Authentication, JWT, sessions, refresh-token rotation, and RBAC
+- Clean architecture, testing, observability, and delivery automation
+- Reliable persistence with PostgreSQL, MySQL, Redis, SQLite, and sqlc
+- Containerized development and deployment with Docker and GitHub Actions
 
 ## Tech Stack
 
@@ -16,19 +18,33 @@ Backend Engineer focused on building reliable APIs, backend services, and practi
 
 `Go` · `Java` · `TypeScript` · `JavaScript` · `PHP` · `SQL`
 
-**Backend & Web**
+**Backend**
 
-`Fiber` · `Spring Boot` · `Laravel` · `React` · `Next.js` · `Tailwind CSS`
+`Fiber` · `gRPC` · `REST API` · `Spring Boot` · `Laravel` · `JWT`
 
 **Data & Infrastructure**
 
-`MySQL` · `SQLite` · `Redis` · `Docker` · `Git` · `REST API`
+`PostgreSQL` · `MySQL` · `Redis` · `SQLite` · `sqlc` · `Docker` · `GitHub Actions`
 
-## Featured Projects
+## Reference Project
+
+### [🐹🔐 Locky](https://github.com/tegarsubkhan236/locky)
+
+A fork of [rhyzoma/locky](https://github.com/rhyzoma/locky) that I use and maintain as a hands-on reference for production-minded identity services in modern microservice architectures.
+
+Locky demonstrates:
+
+- Account registration, credential management, and email verification
+- Short-lived JWT access tokens and rotating refresh tokens
+- Session revocation and explicit service ownership boundaries
+- gRPC APIs with PostgreSQL persistence through sqlc
+- Health checks, structured logging, Docker, CI, and security documentation
+
+## Selected Projects
 
 ### [Go RBAC](https://github.com/tegarsubkhan236/go-rbac)
 
-A Go and Fiber starter project for role-based access control, featuring JWT authentication, MySQL/SQLite persistence, Redis integration, Docker support, and repository/use-case tests.
+A Go and Fiber starter project for role-based access control with JWT authentication, MySQL/SQLite persistence, Redis integration, Docker support, and repository/use-case tests.
 
 ### [Unidirectional Streaming Service](https://github.com/tegarsubkhan236/uds)
 
@@ -37,10 +53,6 @@ A full-stack streaming project with a Go backend and React client, including rep
 ### [Inventory API](https://github.com/tegarsubkhan236/inventory-api) · [Inventory Web](https://github.com/tegarsubkhan236/inventory-web)
 
 An inventory management application consisting of a Go/Fiber REST API and a React/TypeScript dashboard.
-
-### [Weather App](https://github.com/tegarsubkhan236/react-weather-app)
-
-A deployed React application for current weather and five-day forecasts, with geolocation, theme switching, and multilingual support.
 
 ## GitHub Overview
 
